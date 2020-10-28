@@ -4,7 +4,7 @@ Started on 8/28/2020
 
 The series will cover wide range of topics starting with scripting to developing an application you desire. 
 
-Day 1   : Python Basics\n
+Day 1   : Python Basics
 Day 2   : Python Scripting for basic tasks
 Day 3   : Python Classes and Multithreading 
 Day 4   : Python System Programming
